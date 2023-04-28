@@ -1,1 +1,2 @@
-# About-me
+# Hello 😄,
+I introduce myself, Nahel 23 years, i'm kinda new to the web/development world, i've started my journey in the end of 2022, during the last months, i took part of a training course of web developements & mobile developement ( 4 month ) and since then i have started a new one but this time focused on the front-end aspect ( i felt like my basics with css/html were really weak ). i don't really know where i'm going right now but i'm really exited to discover and learn new things 🙂 My passions ? i looove the learning process ( in sports/esports and now web ), jap animation and chess ♟( a loooooooooooot )
